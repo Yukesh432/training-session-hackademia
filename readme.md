@@ -2,6 +2,7 @@
 Day1: Git and github
 
 
+
 Participants :
 
 Name: Rubina Poudel  
@@ -27,3 +28,7 @@ Name: Anuja Bhatta
 class-1: learned about the setup of git and basic common command.
 class-2: continued to learn commands, branch, PR and download Docker.
 class-3: Solved the problem about setup and PR.
+
+Name : Namrata Dhakal
+Topics practiced : git clone,fork, push, pull request
+one thing i learned : to clone and make pull request
