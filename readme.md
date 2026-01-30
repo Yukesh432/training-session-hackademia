@@ -32,3 +32,6 @@ class-3: Solved the problem about setup and PR.
 Name : Namrata Dhakal
 Topics practiced : git clone,fork, push, pull request
 one thing i learned : to clone and make pull request
+
+Name: Khushi Shrestha
+Topic: Revision
